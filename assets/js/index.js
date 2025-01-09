@@ -1,5 +1,5 @@
 //** YouTube Gallery Wall-
-//** Script
+//** Copyright by iErTA
 //** Created: github.com/cherubimq 
 //** Last modified: April 15th, 16 v1.1 to fix iOS devices sometimes not loading videos
 
